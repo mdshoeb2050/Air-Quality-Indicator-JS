@@ -3,6 +3,11 @@
 ## What it does
 It fetches the Air Quality Index and displays the following information  of your location.
 
+## Desktop View
+<img src="https://github.com/mdshoeb2050/Air-Quality-Indicator-JS/blob/main/assets/images/webview.png" alt="WebView" >
+
+## Mobile View
+<img src="https://github.com/mdshoeb2050/Air-Quality-Indicator-JS/blob/main/assets/images/mobileView.png" alt="MobileView" >
 ## Concentration of pollutants in air:
 
 `Carbon Monoxide`
